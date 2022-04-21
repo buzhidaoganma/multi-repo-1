@@ -26,4 +26,5 @@ console.log(a);
 
 我的网址是 [我的网址是](https://www.baidu.com)
 
-![一张图片](1.jpeg)
+圣诞节图片
+![](1.jpeg)
